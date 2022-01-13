@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub profile 🚀
 
 <!--
 **mr-jackpot/mr-jackpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am working hard to level up my web development skills through dedication to personal learning! Please feel free to explore my pinned projects which displays what I have most recently been working on.
