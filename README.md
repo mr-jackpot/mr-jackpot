@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working hard to level up my web development skills through dedication to personal learning! Please feel free to explore my pinned projects which displays what I have most recently been working on.
+I am working hard to level up my web development skills through dedicated personal learning! Please feel free to explore my pinned projects which display what I have most recently been working on.
